@@ -1,0 +1,10 @@
+// testing the program
+#inlcude<stdio.h>
+int main()
+{
+    printf("Enter the number: ");
+    return 0;
+}
+/* hello my name is broce*/
+hello
+/*My name clement*/
